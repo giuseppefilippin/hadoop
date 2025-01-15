@@ -1,1 +1,1 @@
-# hadoop
+# hadoop exercise with brasileirao seria A database
